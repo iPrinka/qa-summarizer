@@ -1,0 +1,7 @@
+nltk
+streamlit
+tenacity
+openai
+praw
+transformers
+python-dotenv
