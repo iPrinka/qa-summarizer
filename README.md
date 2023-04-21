@@ -1,9 +1,5 @@
 # Reddit Threads Summarizer
 
-Please find my Streamlit app hosted [here](https://iprinka-qa-summarizer-app-jbk0xz.streamlit.app/)
-<br/>
-Please note that if you face an error, the Open AI API credits on my account might have expired :D
-
 ## Project Summary
 
 The goal of this model is to provide a summary of comment threads for any given Reddit article/submission link.
